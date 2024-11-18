@@ -1,1 +1,0 @@
-This project was my final thesis for my master's degree in Data Science and Advance Analytics with a specialization in Data Science. It took about 6 months to complete and was awarded a grade of 20 (on a 20-point scale).
